@@ -1,7 +1,5 @@
 from selenium import webdriver
 
-
-
 kala = webdriver.Chrome()
 kala.maximize_window()
 kala.implicitly_wait(20)
